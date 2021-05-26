@@ -1,0 +1,135 @@
+
+||||||||Data e Hora Da Execução: 2021/05/25 18:24:23
+
+Pilha inicializada com um total de 0 ingressos
+
+Fila inicializada com um total de 0 alunos
+
+MenuInicializado
+
+Não é permitido letras no menu
+
+Não tem ingressos disponíveis
+
+
+Não tem alunos no cinema
+
+Fila Vazia
+
+Programa Finalizado.
+
+||||||||Data e Hora Da Execução: 2021/05/25 18:25:32
+
+Pilha inicializada com um total de 5 ingressos
+
+Fila inicializada com um total de 93 alunos
+
+MenuInicializado
+
+
+Não tem alunos no cinema
+
+Telefone: ***-*** do aluno:Aluno N°1 adicionado com sucesso
+
+Email: Aluno1@email.com do aluno:Aluno N°1 adicionado com sucesso
+
+Aluno N°1 recebeu o ingresso da sala1
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+Telefone: ***-*** do aluno:Aluno N°2 adicionado com sucesso
+
+Email: Aluno2@email.com do aluno:Aluno N°2 adicionado com sucesso
+
+Aluno N°2 recebeu o ingresso da sala3
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+Aluno Não Passou o Telefone
+
+Email: Aluno3@email.com do aluno:Aluno N°3 adicionado com sucesso
+
+Aluno N°3 recebeu o ingresso da sala2
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+Aluno Não Passou o Telefone
+
+Email: Aluno4@email.com do aluno:Aluno N°4 adicionado com sucesso
+
+Aluno N°4 recebeu o ingresso da sala3
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+
+Não é permitido colocar letras
+
+Aluno Não Passou o Telefone
+
+Email: Aluno5@email.com do aluno:Aluno N°5 adicionado com sucesso
+
+Aluno N°5 recebeu o ingresso da sala4
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+Acabou os ingressos
+
+Programa Finalizado.
+
+||||||||Data e Hora Da Execução: 2021/05/25 18:48:04
+
+Pilha inicializada com um total de 5 ingressos
+
+Fila inicializada com um total de 93 alunos
+
+MenuInicializado
+
+
+Não tem alunos no cinema
+
+Aluno Não Passou o Telefone
+
+Email: Aluno1@email.com do aluno:Aluno N°1 adicionado com sucesso
+
+Aluno N°1 recebeu o ingresso da sala5
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+Não é permitido letras no menu
+
+Telefone: ****-**** do aluno:Aluno N°2 adicionado com sucesso
+
+Email: Aluno3@email.com do aluno:Aluno N°2 adicionado com sucesso
+
+Aluno N°2 recebeu o ingresso da sala5
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+Telefone: ***-*** do aluno:Aluno N°3 adicionado com sucesso
+
+Email: Aluno3@email.com do aluno:Aluno N°3 adicionado com sucesso
+
+Aluno N°3 recebeu o ingresso da sala5
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+Aluno Não Passou o Telefone
+
+Email: ALuno4@email.com do aluno:Aluno N°4 adicionado com sucesso
+
+Aluno N°4 recebeu o ingresso da sala3
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+
+Não é permitido colocar letras
+
+Aluno Não Passou o Telefone
+
+Email: Aluno5@email.com do aluno:Aluno N°5 adicionado com sucesso
+
+Aluno N°5 recebeu o ingresso da sala5
+
+Aluno Adicionado Com Sucesso, Voltando ao menu principal
+
+Programa Finalizado.
